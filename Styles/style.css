@@ -1,0 +1,220 @@
+﻿body {
+    font-family:Verdana;
+    color:black;
+}
+*{
+    padding:0;
+    margin-left: 0px;
+    margin-right: 0;
+    margin-top: 0;
+}
+#page
+{
+    margin:auto;
+    width:80%;
+}
+nav #right{
+    text-align:right;
+    flex:1;
+}
+nav #left{
+    text-align:left;
+    flex:1;
+
+}
+.container{
+    display:flex;
+}
+#right{
+    flex:1;
+}
+#left{
+    flex:1;
+}
+
+
+
+
+
+
+
+nav ul li a:hover {
+
+    border-bottom:solid 5px;
+    border-bottom-left-radius:2px;
+    border-bottom-right-radius:2px;
+
+
+}
+
+nav ul li a:active {
+    border-bottom: solid 5px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+#account-header h2{
+    text-transform:uppercase;
+    text-align:center;
+    margin:1em;
+}
+#thank {
+    text-align: center;
+}
+
+nav {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    /* text-align:center;*/
+    display: flex;
+    border-bottom: solid 5px black;
+    margin-bottom: 1em;
+}
+
+header h1{
+    text-transform:uppercase;
+    text-align:center;
+    margin:1em;
+    color:black;
+
+}
+
+nav ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    text-transform:uppercase;
+}
+
+
+    nav ul li {
+        display: inline;
+        list-style: none;
+        padding-right: 1em;
+    }
+
+
+#ft {
+   /* border-top: solid 5px black;*/
+}
+
+
+
+
+#left-menu ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.vanue{
+    display:flex;
+}
+#unit{
+    flex:1;
+}
+#price{
+    flex:1;
+}
+
+
+#left-menu ul li {
+    display: inline;
+    list-style: none;
+    padding-right: 1em;
+}
+
+#left-menu ul li a:hover {
+    border-bottom: solid 5px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+.buttons,.account,.addunit {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttons tr td{
+
+    padding-bottom:0.3em;
+}
+.back, .leftButton{
+float:right;
+
+}
+
+
+.add{
+    float:left;
+}
+header img{
+    float:left;
+    height:60px;
+}
+.note {
+    margin:2em;
+    padding:2em;
+    border:solid;
+}
+.successfont {
+    font-family:sans-serif;
+    font-weight:bold;
+    color:darkgreen;
+    padding:1em;
+}
+.tablebooking {
+    margin-top: 3%;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding:8px;
+}
+#intro {
+    margin-top: 5%;
+    border:1px solid black;
+    background-color:Highlight;
+    color:white;
+    padding:4px;
+    margin-bottom:5px;
+}
+#booki {
+    border: 4px solid black;
+    border-radius:8px;
+    padding: 1em;
+    
+}
+
+.b{
+    display:flex;
+   
+}
+#ar1 {
+    flex: 1;
+    width: 100%;
+}
+#ar2{
+    flex:1;
+}
+th {
+    padding:7px;
+}
+td {
+    padding-right:2em;
+}
+.putcenter {
+    padding-left:50%;
+    padding-right:50%;
+}
+#Advice {
+    color:red;
+    font-weight:normal;
+}
+#Button5123 {
+    padding-right:1em;
+}
+.spaced {
+    margin-top:10px;
+    padding-left:8px;
+}
+#bookingslist {
+    padding-bottom:8px;
+}

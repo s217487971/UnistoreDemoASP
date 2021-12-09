@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="UnistoreWeb.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </title>
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+     
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="page">
+
+            <header>  
+
+                <img src="Images/logo.png" />
+                <h1>
+                    <asp:ContentPlaceHolder ID="header" runat="server"></asp:ContentPlaceHolder>
+                </h1>
+            </header>
+            <nav>
+                
+                
+
+                <article id="left">
+                     <ul>
+                    <li><a href="Home.aspx">Home</a></li>
+                    <li><a href="AvailableStorage.aspx">Storage</a></li>
+                    <li><a href="TestBooking.aspx">Book</a></li>
+                </ul>
+                </article>
+
+                
+                <article id="right">
+                   <ul ID="nomarlUserLoginRight" runat="server">
+
+                   <li><asp:Label ID="user" runat="server" Text=""></asp:Label></li>
+
+                    <li><a href="TestStudent.aspx">Account</a></li>
+                    <li><a href="Logout.aspx">Logout</a></li>
+                    
+                  </ul>
+
+
+                    <ul ID="nomarlUserRight" runat="server">
+                     <li><a href="Login.aspx">Login</a></li>
+                     <li><a href="Register.aspx">Register</a></li>
+                    </ul>
+      
+                 <ul ID="AdminRight" runat="server">
+                     <asp:Label ID="admin" runat="server" Text=""></asp:Label>
+                    <li>
+                        <a href="Management.aspx">Management</a>
+                    </li>
+                    <li><a href="Logout.aspx">Logout</a></li>
+                </ul>
+
+                   
+                </article>
+               
+            </nav>
+            <section>
+
+                <asp:ContentPlaceHolder ID="content" runat="server"></asp:ContentPlaceHolder>
+            </section>
+            <section id="ft">
+                <asp:ContentPlaceHolder ID="footer" runat="server"></asp:ContentPlaceHolder>
+            </section>
+
+
+
+
+
+
+
+        </div>
+    </form>
+</body>
+</html>

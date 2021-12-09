@@ -1,0 +1,467 @@
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojAssemblyReference.cache
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CopyComplete
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\njabu\OneDrive\Desktop\PROJECT\Website\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CopyComplete
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\user\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojResolveAssemblyReference.cache
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+D:\Data\Desktop\PROJECT\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojResolveAssemblyReference.cache
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\SZ478MX\Desktop\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojAssemblyReference.cache
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CopyComplete
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojAssemblyReference.cache
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CopyComplete
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csprojAssemblyReference.cache
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CopyComplete
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\Njabulo Elson Khoza\Desktop\Project\Cancel\UnistoreWeb-20\UnistoreWeb-20201106T190151Z-001\UnistoreWeb\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\UnistoreWeb.dll.config
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\UnistoreWeb.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\UnistoreWeb.pdb
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\csc.exe
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\csc.exe.config
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\csc.rsp
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\csi.exe
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\csi.exe.config
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\csi.rsp
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.AppContext.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Console.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\vbc.exe
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\vbc.exe.config
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\vbc.rsp
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\obj\Debug\UnistoreWeb.csprojAssemblyReference.cache
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\obj\Debug\UnistoreWeb.csproj.CopyComplete
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\obj\Debug\UnistoreWeb.dll
+C:\Users\IvyBridge\Documents\GitHub\UniStoreDemo\UnistoreWeb\obj\Debug\UnistoreWeb.pdb
